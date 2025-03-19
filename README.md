@@ -2,7 +2,7 @@
 
 An **AI-driven Resume Screening System** built with **Streamlit**, using **NLP and Machine Learning** to analyze and rank resumes based on job descriptions.
 
-![Screenshot](screenshots.png)  
+![Screenshot](screenshot.png)  
 
 ## ✨ Features  
 ✅ Upload multiple resumes (PDF format)  
