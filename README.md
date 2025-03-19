@@ -12,10 +12,3 @@ An **AI-driven Resume Screening System** built with **Streamlit**, using **NLP a
 ✅ Simple UI built with **Streamlit**  
 
 ---
-
-## 🛠 Installation & Setup  
-
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/YOUR_USERNAME/resume-screening.git
-cd resume-screening
